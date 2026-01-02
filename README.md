@@ -5,6 +5,23 @@
   <p>Create, take, and analyze exams with AI-generated questions and personalized feedback</p>
 </div>
 
+## 📸 Screenshots
+
+<div align="center">
+  
+  ### Dashboard View
+  ![Dashboard Screenshot](./screenshots/dashboard.png)
+  
+  ### Exam View
+  ![Exam Screenshot](./screenshots/exam.png)
+  
+  ### Results View
+  ![Results Screenshot](./screenshots/results.png)
+  
+</div>
+
+> **Note**: Add your screenshots to the `screenshots` folder. Recommended image names: `dashboard.png`, `exam.png`, `results.png`. You can take screenshots by running the app and capturing the views.
+
 ## 📋 Description
 
 GeminiQuest is a modern, AI-powered examination platform built with React and TypeScript. It allows users to take pre-configured exams or generate custom exams on any topic using Google's Gemini AI. The platform provides detailed performance analytics, AI-generated feedback, and a comprehensive history tracking system.
